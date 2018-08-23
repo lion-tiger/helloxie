@@ -7,3 +7,13 @@ autoconf是一系列工具
 
 1 安装atuomake
 2 
+
+
+
+
+
+-----------------
+debian apache2 php phpmyadmin mysql
+1 apt-get install mysql-server
+2 apt-get install mysql-client
+
